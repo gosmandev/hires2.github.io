@@ -1,0 +1,19 @@
+/*Шрифт fontkhasanov*/
+@font-face{font-family:'fontkhasanov';src:url(fontkhasanov.eot?dn34wl);src:url(fontkhasanov.eot?dn34wl#iefix) format("embedded-opentype"),url(fontkhasanov.ttf?dn34wl) format("truetype"),url(fontkhasanov.woff?dn34wl) format("woff"),url(fontkhasanov.svg?dn34wl#fontkhasanov) format("svg");font-weight:400;font-style:normal}
+[class^="ico-"],[class*=" ico-"]{font-family:'fontkhasanov'!important;speak:none; font-size: 17px; font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+/*Иконки социальных сервисов*/
+.ico-googleplus:before{content:"\e908";}
+.ico-ok:before{content:"\e90a";}
+.ico-youtube-3:before{content:"\e900";}
+.ico-mail:before{content:"\e901";}
+.ico-yandex:before{content:"\e902";}
+.ico-vk-B:before{content:"\e904";}
+.ico-vk-vk:before{content:"\e905";}
+.ico-facebook:before{content:"\e923";}
+.ico-instagram:before{content:"\e924";}
+.ico-whatsapp:before{content:"\e925";}
+.ico-twitter:before{content:"\e926";}
+.ico-youtube:before{content:"\e928";}
+.ico-twitch:before{content:"\e92a";}
+.ico-vimeo:before{content:"\e92b";}
+.ico-skype:before{content:"\e933";}
